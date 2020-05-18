@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/simon/OneDrive/Documents/ee312/lab3_2/driver.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stack_arr.h
+C:/Users/simon/OneDrive/Documents/ee312/lab3_2/stack_arr.h
+
+C:/Users/simon/OneDrive/Documents/ee312/lab3_2/stack_arr.h
+stdio.h
+-
+stdbool.h
+-
+
