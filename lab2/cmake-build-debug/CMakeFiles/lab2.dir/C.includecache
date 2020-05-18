@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/simon/OneDrive/Documents/ee312/lab2/life.h
+
+C:/Users/simon/OneDrive/Documents/ee312/lab2/life_driver.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+life.h
+C:/Users/simon/OneDrive/Documents/ee312/lab2/life.h
+
