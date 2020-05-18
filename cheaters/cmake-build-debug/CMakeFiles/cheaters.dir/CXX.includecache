@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/simon/Documents/ee312/cheaters/linkedlist.h
+vector
+-
+
+C:/Users/simon/Documents/ee312/cheaters/main.cpp
+iostream
+-
+linkedlist.h
+C:/Users/simon/Documents/ee312/cheaters/linkedlist.h
+string
+-
+dirent.h
+-
+cmath
+-
+vector
+-
+fstream
+-
+stdlib.h
+-
+sys/types.h
+-
+
